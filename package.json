@@ -9,7 +9,7 @@
     "restart": "pm2 restart VES-MINI"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "latest",
+    "@whiskeysockets/baileys": "6.5.0",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "latest",
     "@dark-yasiya/scrap": "latest",
